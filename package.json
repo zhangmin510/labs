@@ -1,0 +1,27 @@
+{
+  "name": "labs",
+  "version": "0.0.1",
+  "description": "zhangmin.name's labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmin510/labs.git"
+  },
+  "keywords": [
+    "labs",
+    "express",
+    "nodejs"
+  ],
+  "author": "zhangmin.name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangmin510/labs/issues"
+  },
+  "homepage": "https://github.com/zhangmin510/labs#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
